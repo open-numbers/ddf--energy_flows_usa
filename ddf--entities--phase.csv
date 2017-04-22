@@ -1,28 +1,28 @@
-phase,name,is-phase_from,is--phase_to
-"Coal, peat and oil shale",Coal and Shale,true,true
-"Crude,NGL and feedstocks",Crude and Feedstocks,true,true
-Oil products,Oil,true,true
-Natural gas,Natural Gas,true,true
-Nuclear,Nuclear,true,true
-Renewables and waste,Renewables,true,true
-Electricity,Electricity,true,true
-Heat,Heat,true,true
-Total,Total,true,true
-Fossil Fuels,Fossil Fuel,true,true
-Renewable sources,Renewable Source,true,true
-Production (ktoe),Production,true,true
-Imports (ktoe),Import,true,true
-Exports (ktoe),Export,true,true
-Total primary energy supply (ktoe),Total Energy Supply,true,true
-Electricity plants (ktoe),Electricity Plant,true,true
-CHP plants (ktoe),CHP Plant,true,true
-Heat plants (ktoe),Heat Plant,true,true
-"Oil refineries, transformation (ktoe)",Oil Refineries,true,true
-Total final consumption (ktoe),Total Consumption,true,true
-Industry (ktoe),Industry,true,true
-Transport (ktoe),Transport,true,true
-Other (ktoe),Other,true,true
-of which: Residential (ktoe),Residential,true,true
-of which: Commerce and public services (ktoe),Commerce,true,true
-Electricity output (GWh),Electricity Output,true,true
-Total CO2 emissions - Fuel Combustion (Mt of CO2),CO2 Emissions,true,true
+phase,name,is--phase_from,is--phase_to
+coal_and_shale,Coal and Shale,true,true
+crude_and_feedstocks,Crude and Feedstocks,true,true
+oil,Oil,true,true
+natural_gas,natural_gas,true,true
+nuclear,nuclear,true,true
+renewables,Renewables,true,true
+electricity,electricity,true,true
+heat,heat,true,true
+total,total,true,true
+fossil_fuel,Fossil Fuel,true,true
+renewable_sources,Renewable Source,true,true
+production,Production,true,true
+imports,Import,true,true
+exports,Export,true,true
+total_energy_supply,Total Energy Supply,true,true
+electricity_plant,Electricity Plant,true,true
+cph_plant,CHP Plant,true,true
+heat_plant,Heat Plant,true,true
+oil_refineries,Oil Refineries,true,true
+total_consumption,Total Consumption,true,true
+industry,Industry,true,true
+transport,Transport,true,true
+other,Other,true,true
+residential,Residential,true,true
+commerce,Commerce,true,true
+electricity_output,Electricity Output,true,true
+co2_emissions,CO2 Emissions,true,true

@@ -60,6 +60,12 @@
                     },
                     {
                         "name": "name"
+                    },
+                    {
+                        "name": "is--phase_from"
+                    },
+                    {
+                        "name": "is--phase_to"
                     }
                 ],
                 "primaryKey": "phase"
