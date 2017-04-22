@@ -1,0 +1,132 @@
+phase_from,phase_to,year,amount
+"Coal, peat and oil shale",Production (ktoe),2014,485031
+"Coal, peat and oil shale",Imports (ktoe),2014,6362
+"Coal, peat and oil shale",Exports (ktoe),2014,-57196
+"Coal, peat and oil shale",Total primary energy supply (ktoe),2014,431707
+"Coal, peat and oil shale",Electricity plants (ktoe),2014,-386896
+"Coal, peat and oil shale",CHP plants (ktoe),2014,-9112
+"Coal, peat and oil shale",Heat plants (ktoe),2014,0
+"Coal, peat and oil shale","Oil refineries, transformation (ktoe)",2014,0
+"Coal, peat and oil shale",Total final consumption (ktoe),2014,22204
+"Coal, peat and oil shale",Industry (ktoe),2014,21351
+"Coal, peat and oil shale",Transport (ktoe),2014,0
+"Coal, peat and oil shale",Other (ktoe),2014,853
+"Coal, peat and oil shale",of which: Residential (ktoe),2014,0
+"Coal, peat and oil shale",of which: Commerce and public services (ktoe),2014,853
+"Crude,NGL and feedstocks",Production (ktoe),2014,549939
+"Crude,NGL and feedstocks",Imports (ktoe),2014,407372
+"Crude,NGL and feedstocks",Exports (ktoe),2014,-52042
+"Crude,NGL and feedstocks",Total primary energy supply (ktoe),2014,898237
+"Crude,NGL and feedstocks",Electricity plants (ktoe),2014,0
+"Crude,NGL and feedstocks",CHP plants (ktoe),2014,0
+"Crude,NGL and feedstocks",Heat plants (ktoe),2014,0
+"Crude,NGL and feedstocks","Oil refineries, transformation (ktoe)",2014,-850405
+"Crude,NGL and feedstocks",Total final consumption (ktoe),2014,2304
+"Crude,NGL and feedstocks",Industry (ktoe),2014,0
+"Crude,NGL and feedstocks",Transport (ktoe),2014,0
+"Crude,NGL and feedstocks",Other (ktoe),2014,0
+"Crude,NGL and feedstocks",of which: Residential (ktoe),2014,0
+"Crude,NGL and feedstocks",of which: Commerce and public services (ktoe),2014,0
+Oil products,Production (ktoe),2014,0
+Oil products,Imports (ktoe),2014,63675
+Oil products,Exports (ktoe),2014,-141355
+Oil products,Total primary energy supply (ktoe),2014,-115956
+Oil products,Electricity plants (ktoe),2014,-7105
+Oil products,CHP plants (ktoe),2014,-2304
+Oil products,Heat plants (ktoe),2014,0
+Oil products,"Oil refineries, transformation (ktoe)",2014,841603
+Oil products,Total final consumption (ktoe),2014,742115
+Oil products,Industry (ktoe),2014,21443
+Oil products,Transport (ktoe),2014,567599
+Oil products,Other (ktoe),2014,50558
+Oil products,of which: Residential (ktoe),2014,22469
+Oil products,of which: Commerce and public services (ktoe),2014,12899
+Natural gas,Production (ktoe),2014,602299
+Natural gas,Imports (ktoe),2014,62255
+Natural gas,Exports (ktoe),2014,-34672
+Natural gas,Total primary energy supply (ktoe),2014,624000
+Natural gas,Electricity plants (ktoe),2014,-164696
+Natural gas,CHP plants (ktoe),2014,-41657
+Natural gas,Heat plants (ktoe),2014,0
+Natural gas,"Oil refineries, transformation (ktoe)",2014,0
+Natural gas,Total final consumption (ktoe),2014,355207
+Natural gas,Industry (ktoe),2014,120828
+Natural gas,Transport (ktoe),2014,20380
+Natural gas,Other (ktoe),2014,199359
+Natural gas,of which: Residential (ktoe),2014,118695
+Natural gas,of which: Commerce and public services (ktoe),2014,79393
+Nuclear,Production (ktoe),2014,216455
+Nuclear,Imports (ktoe),2014,0
+Nuclear,Exports (ktoe),2014,0
+Nuclear,Total primary energy supply (ktoe),2014,216455
+Nuclear,Electricity plants (ktoe),2014,-216455
+Nuclear,CHP plants (ktoe),2014,0
+Nuclear,Heat plants (ktoe),2014,0
+Nuclear,"Oil refineries, transformation (ktoe)",2014,0
+Nuclear,Total final consumption (ktoe),2014,0
+Nuclear,Industry (ktoe),2014,0
+Nuclear,Transport (ktoe),2014,0
+Nuclear,Other (ktoe),2014,0
+Nuclear,of which: Residential (ktoe),2014,0
+Nuclear,of which: Commerce and public services (ktoe),2014,0
+Renewables and waste,Production (ktoe),2014,158253
+Renewables and waste,Imports (ktoe),2014,1344
+Renewables and waste,Exports (ktoe),2014,-2207
+Renewables and waste,Total primary energy supply (ktoe),2014,157166
+Renewables and waste,Electricity plants (ktoe),2014,-64853
+Renewables and waste,CHP plants (ktoe),2014,-7607
+Renewables and waste,Heat plants (ktoe),2014,0
+Renewables and waste,"Oil refineries, transformation (ktoe)",2014,0
+Renewables and waste,Total final consumption (ktoe),2014,84455
+Renewables and waste,Industry (ktoe),2014,29985
+Renewables and waste,Transport (ktoe),2014,34415
+Renewables and waste,Other (ktoe),2014,20055
+Renewables and waste,of which: Residential (ktoe),2014,14634
+Renewables and waste,of which: Commerce and public services (ktoe),2014,4027
+Electricity,Production (ktoe),2014,0
+Electricity,Imports (ktoe),2014,5720
+Electricity,Exports (ktoe),2014,-1144
+Electricity,Total primary energy supply (ktoe),2014,4576
+Electricity,Electricity plants (ktoe),2014,344571
+Electricity,CHP plants (ktoe),2014,26876
+Electricity,Heat plants (ktoe),2014,0
+Electricity,"Oil refineries, transformation (ktoe)",2014,0
+Electricity,Total final consumption (ktoe),2014,325750
+Electricity,Industry (ktoe),2014,70609
+Electricity,Transport (ktoe),2014,654
+Electricity,Other (ktoe),2014,254487
+Electricity,of which: Residential (ktoe),2014,121860
+Electricity,of which: Commerce and public services (ktoe),2014,116094
+Heat,Production (ktoe),2014,0
+Heat,Imports (ktoe),2014,0
+Heat,Exports (ktoe),2014,0
+Heat,Total primary energy supply (ktoe),2014,0
+Heat,Electricity plants (ktoe),2014,0
+Heat,CHP plants (ktoe),2014,10235
+Heat,Heat plants (ktoe),2014,0
+Heat,"Oil refineries, transformation (ktoe)",2014,0
+Heat,Total final consumption (ktoe),2014,5593
+Heat,Industry (ktoe),2014,4419
+Heat,Transport (ktoe),2014,0
+Heat,Other (ktoe),2014,1174
+Heat,of which: Residential (ktoe),2014,0
+Heat,of which: Commerce and public services (ktoe),2014,1174
+Total,Production (ktoe),2014,2011977
+Total,Imports (ktoe),2014,546728
+Total,Exports (ktoe),2014,-288616
+Total,Total primary energy supply (ktoe),2014,2216187
+Total,Electricity plants (ktoe),2014,-495434
+Total,CHP plants (ktoe),2014,-23568
+Total,Heat plants (ktoe),2014,0
+Total,"Oil refineries, transformation (ktoe)",2014,-8802
+Total,Total final consumption (ktoe),2014,1537628
+Total,Industry (ktoe),2014,268637
+Total,Transport (ktoe),2014,623047
+Total,Other (ktoe),2014,526486
+Total,of which: Residential (ktoe),2014,277658
+Total,of which: Commerce and public services (ktoe),2014,214439
+Fossil Fuels,Electricity output (GWh),2014,2913787
+Nuclear,Electricity output (GWh),2014,830584
+Renewable sources,Electricity output (GWh),2014,559496
+Total,Electricity output (GWh),2014,4319156
+Total,Total CO2 emissions - Fuel Combustion (Mt of CO2),2014,5176

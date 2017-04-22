@@ -1,0 +1,69 @@
+{
+    "name": "ddf--energy_flows_usa",
+    "language": {
+        "id": "en"
+    },
+    "resources": [
+        {
+            "path": "ddf--concepts.csv",
+            "name": "ddf--concepts",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "concept"
+                    },
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "concept_type"
+                    },
+                    {
+                        "name": "domain"
+                    }
+                ],
+                "primaryKey": "concept"
+            }
+        },
+        {
+            "path": "ddf--datapoints--amount--by--phase_from--phase_to--year.csv",
+            "name": "ddf--datapoints--amount--by--phase_from--phase_to--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "phase_from"
+                    },
+                    {
+                        "name": "phase_to"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "amount"
+                    }
+                ],
+                "primaryKey": [
+                    "phase_from",
+                    "phase_to",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--entities--phase.csv",
+            "name": "ddf--entities--phase",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "phase"
+                    },
+                    {
+                        "name": "name"
+                    }
+                ],
+                "primaryKey": "phase"
+            }
+        }
+    ]
+}

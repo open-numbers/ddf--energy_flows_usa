@@ -1,0 +1,28 @@
+phase,name,is-phase_from,is--phase_to
+"Coal, peat and oil shale",Coal and Shale,true,true
+"Crude,NGL and feedstocks",Crude and Feedstocks,true,true
+Oil products,Oil,true,true
+Natural gas,Natural Gas,true,true
+Nuclear,Nuclear,true,true
+Renewables and waste,Renewables,true,true
+Electricity,Electricity,true,true
+Heat,Heat,true,true
+Total,Total,true,true
+Fossil Fuels,Fossil Fuel,true,true
+Renewable sources,Renewable Source,true,true
+Production (ktoe),Production,true,true
+Imports (ktoe),Import,true,true
+Exports (ktoe),Export,true,true
+Total primary energy supply (ktoe),Total Energy Supply,true,true
+Electricity plants (ktoe),Electricity Plant,true,true
+CHP plants (ktoe),CHP Plant,true,true
+Heat plants (ktoe),Heat Plant,true,true
+"Oil refineries, transformation (ktoe)",Oil Refineries,true,true
+Total final consumption (ktoe),Total Consumption,true,true
+Industry (ktoe),Industry,true,true
+Transport (ktoe),Transport,true,true
+Other (ktoe),Other,true,true
+of which: Residential (ktoe),Residential,true,true
+of which: Commerce and public services (ktoe),Commerce,true,true
+Electricity output (GWh),Electricity Output,true,true
+Total CO2 emissions - Fuel Combustion (Mt of CO2),CO2 Emissions,true,true
